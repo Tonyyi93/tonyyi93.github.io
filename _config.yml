@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:"https://github.com/Tonyyi93"
+      url:"https://github.com/Tonyyi93"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -279,7 +279,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+   _posts
   - scope:
       path: "/blog"
       type: posts
